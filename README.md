@@ -4,6 +4,9 @@ This repository is for showing how Git and GitHub work together
 
 ##Introduction
 
+This repository is the way to learn git and github.
+We are doing great
+
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -13,3 +16,4 @@ Sample website with plenty of files for demos
 This repo shows how to deploy web project
 
 ## How To Contribute
+By coding
