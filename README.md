@@ -17,3 +17,6 @@ This repo shows how to deploy web project
 
 ## How To Contribute
 By coding
+
+## Copyright
+ Git trng
