@@ -16,7 +16,7 @@ Sample website with plenty of files for demos
 This repo shows how to deploy web project
 
 ## How To Contribute
-By coding
+Please fork this repository and issue pull requests for review
 
 ## Copyright
  Git trng
