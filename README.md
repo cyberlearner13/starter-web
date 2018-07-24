@@ -20,4 +20,4 @@ This repo shows how to deploy web project
 Please fork this repository and issue pull requests for review
 
 ## Copyright
- Git trng
+ Git trng...All rights reserved
